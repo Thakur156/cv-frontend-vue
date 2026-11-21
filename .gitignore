@@ -14,7 +14,6 @@ public/simulatorvue/*
 *.local
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -26,3 +25,4 @@ public/simulatorvue/*
 
 # npm package staging
 packages/
+config.bat
